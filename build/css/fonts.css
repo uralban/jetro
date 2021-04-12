@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Bebas";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/BebasNeue.otf") format("opentype"),
+       url("/fonts/BebasNeue.ttf") format("ttf");
+}
